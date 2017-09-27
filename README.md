@@ -1,2 +1,2 @@
-# doc
-置くだけで、つながる、IoTセンサー Webiot [ウェビオ] のドキュメントです
+# Wikiページをご覧下さい
+https://github.com/webiot-io/doc/wiki
